@@ -4,8 +4,12 @@ Working Yolov5 Framework, with some tools that help Create / Train / Validate Yo
 
 <details>
 <summary>Installation</summary>
-
-
+Clone  [repo](https://github.com/ultralytics/yolov5) and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt)
+```bash
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+```
 
 
 </details>
